@@ -159,7 +159,7 @@ public class base {
           imprime_stats(tempo_espera);
       
     }
-    //Round-Robin ainda não foi implementado
+    
     public static void Round_Robin(int[] execucao, int[] espera, int[] restante){
         int[] tempo_execucao = execucao.clone();
         int[] tempo_espera = espera.clone();
