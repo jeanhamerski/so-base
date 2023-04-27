@@ -166,9 +166,10 @@ public class base {
         int[] tempo_restante = restante.clone();
 
         
-      //implementar código do Round-Robin
+        //implementar código do Round-Robin
         //...
         //
-      imprime_stats(tempo_espera);
+        
+        imprime_stats(tempo_espera);
     }
 }
